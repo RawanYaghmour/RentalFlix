@@ -70,7 +70,7 @@ The "RentalFlix" project involves designing an Entity-Relationship Diagram (ERD)
 ## ERD Diagram 🔗
 Below is the Entity-Relationship Diagram (ERD) for RentalFlix:
 
-(./RentalFlix/Assets/ERD1.PNG)
+./RentalFlix/Assets/ERD1.PNG
 
 ## Additional Information or Notes 📋
 - **Dependencies:** This project requires an ERD editing tool.
